@@ -1,0 +1,11 @@
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\obj\Debug\netcoreapp3.1\Bowling.csprojAssemblyReference.cache
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\obj\Debug\netcoreapp3.1\Bowling.AssemblyInfoInputs.cache
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\obj\Debug\netcoreapp3.1\Bowling.AssemblyInfo.cs
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.exe
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.deps.json
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.runtimeconfig.json
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.runtimeconfig.dev.json
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.dll
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\bin\Debug\netcoreapp3.1\Bowling.pdb
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\obj\Debug\netcoreapp3.1\Bowling.dll
+C:\Daten\Projects\AUVA\DEV\CodingDojo\Bowling\Bowling\obj\Debug\netcoreapp3.1\Bowling.pdb
